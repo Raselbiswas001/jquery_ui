@@ -1,0 +1,86 @@
+.h1{
+	font-size: 30px;
+	background-color:grey;
+	color:white;
+	text-align:center;
+}
+ 
+ 
+#panel1, #flip1 {
+  padding: 5px;
+  text-align: center;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+}
+
+#panel1 {
+  padding: 50px;
+  display: none;
+}
+#panel2, #flip2 {
+  padding: 5px;
+  font-size: 18px;
+  text-align: center;
+  background-color: #555;
+  color: white;
+  border: solid 1px #666;
+  border-radius: 3px;
+}
+
+#panel2 {
+  padding: 50px;
+  display: none;
+}
+#div1{
+
+height:100px;
+width:300px;
+border:1px solid black;
+background-color:yellow;
+
+
+}
+.important {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.blue {
+  color: blue;
+}
+#div5 {
+  height: 100px;
+  width: 300px;
+  padding: 10px;
+  margin: 3px;
+  border: 1px solid blue;
+  background-color: lightblue;
+}
+
+#p18{
+ 
+    background: #dad;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  #div19 {
+    background: #de9a44;
+    margin: 3px;
+    width: 80px;
+    height: 40px;
+    display: none;
+    float: left;
+  }
+  div #block1,#block2 {
+    background-color: #bca;
+    width: 200px;
+    height: 1.1em;
+    text-align: center;
+    border: 2px solid green;
+    margin: 3px;
+    font-size: 14px;
+  }
+  button {
+    font-size: 14px;
+  }
